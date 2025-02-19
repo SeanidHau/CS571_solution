@@ -1,0 +1,10 @@
+{
+    "name" : {
+        "first" : "Seanid",
+        "last" : "Hau"
+    },
+    "fromWisconsin" : false,
+    "numcredits" : 7,
+    "major" : "Computer Science",
+    "interests" : ["singing", "gaming", "learning"]
+}
